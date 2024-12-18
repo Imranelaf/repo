@@ -58,7 +58,7 @@ function Slogan() {
   return (
     <div className="flex flex-row justify-center h-screen">
       <div className="cover w-2/5 h-full flex justify-center items-center">
-        <img ref={imageRef} src="/cover.png" alt="image" />
+        <img ref={imageRef} src="images/cover.webp" alt="Slogan image" />
       </div>
       <div className="flex flex-col w-2/5 h-full justify-center items-center">
         <h2 className="split text-2xl" ref={textRef}>
