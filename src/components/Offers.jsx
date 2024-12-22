@@ -66,7 +66,7 @@ function Offers() {
               <p className="mb-4">
                 <span className="font-medium">Price:</span> {offer.price}
               </p>
-              <button className="w-full bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 transition">
+              <button className="w-full bg-indigo-600 text-white py-2 px-4 rounded-lg hover:bg-indigo-700 transition">
                 Book Now
               </button>
             </div>
